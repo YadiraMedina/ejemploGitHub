@@ -4,7 +4,11 @@
  * and open the template in the editor.
 Team --> Git --> Inicializar repositorio --> OK
 Crear repositorio en git web y copiar HTTPs
-proyecto--> clic derecho --> Git --> commit
+proyecto--> clic derecho --> Git --> commit --> escribir mensaje y comit
+Para subir los cambios: proyecto -> clic derecho --> Git --> Remove --> Push --> poner HTTPS y YadiraMedina (69027632Putumayo)
+
+Para ver cambios --> proyecto --> clic derecho --> git --> commit
+
  */
 package ejemplogithub;
 
@@ -19,6 +23,11 @@ public class EjemploGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //CAMBIO EJEMPLO GIT       
+        //CAMBIO EJEMPLO GIT
+                //CAMBIO EJEMPLO GIT
+
+
     }
     
 }
